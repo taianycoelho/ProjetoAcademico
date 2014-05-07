@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Academico</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="Cadastro_aluno">Cadastro Aluno:</string>
+    <string name="cadastro_aluno">Cadastro Aluno:</string>
+    <string name="Tela_cadastro_aluno">Cadastro Aluno</string>
+    <string name="nome_aluno">Nome Aluno:</string>
+    <string name="idade_aluno">Idade:</string>
+    <string name="data_nascimento">Data de Nascimento:</string>
+    <string name="cpf_aluno">CPF:</string>
+    <string name="endereco_aluno">Endereço:</string>
+    <string name="telefone_aluno">Telefone:</string>
+    <string name="turma_aluno">Turma:</string>
+    <string name="variavel_nome_aluno"></string>
+    <string name="email_aluno">E-mail:</string>
+    <string name="bt_salvar_aluno">Salvar</string>
+    <string name="login_aluno">Login Sistema:</string>
+    <string name="senha_aluno">Senha:</string>
+    <string name="cadastro_professor">Cadastro Professor</string>
+    <string name="nome_professor">Nome:</string>
+    <string name="especializacao_professor">Especialização:</string>
+    <string name="materias_professor">Matéria(s) Ministrada(s):</string>
+    <string name="rb_mat">Matemática</string>
+    <string name="rd_sistema">Sistemas de Informação</string>
+    <string name="rd_comunicacao">Comunicação Social</string>
+    <string name="rd_psicologia">Psicologia</string>
+    <string name="rd_engenharia">Engenharia de Telecomunicação</string>
+    <string name="bt_salvar_produto">Salvar</string>
+    <string name="cadastro_mat">Cadastro Matéria</string>
+    <string name="nome_materia">Nome Matéria:</string>
+    <string name="professor_responsavel">Professor Responsável</string>
+    <string name="salvar_materia">Salvar</string>
+    <string name="matricula_1_semestre">Matricula 1° Semestre de  2014</string>
+    <string name="aluno_mat">Aluno:</string>
+    <string name="curso_professor">Curso Ministrado</string>
+    <string name="disponivel_curso">Disponível no curso:</string>
+    <string name="curso_aluno">Curso</string>
+    <string name="salvar_matricula">Realizar Matrícula</string>
+    <string name="Curso">cod_curso</string>
+    <string name="curso_alunod">Curso:</string>
+    <string name="cod_turma">Turma:</string>
+
+</resources>
